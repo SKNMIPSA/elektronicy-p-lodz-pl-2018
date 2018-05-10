@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pcb.PcbDoc   10.05.2018  12:18:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : elektronicy-p-lodz-pl-B-2018-v10.TXT
+EIA File   : elektronicy-p-lodz-pl-B-2018-v10.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             16        PTH        0.00mm (0.00inch)
+T2      0.8mm (31mil)                                             Round             42        PTH        0.00mm (0.00inch)
+T3      0.889mm (35mil)                                           Round             2         PTH        0.00mm (0.00inch)
+T4      0.914mm (36mil)                                           Round             32        PTH        0.00mm (0.00inch)
+T5      0.95mm (37mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             79        PTH        0.00mm (0.00inch)
+T7      2.3mm (91mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T8      3.2mm (126mil)                                            Round             4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              181
+
+Total Processing Time (hh:mm:ss) : 00:00:00
