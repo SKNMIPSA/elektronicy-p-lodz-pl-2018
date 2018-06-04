@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for elektronicy-p-lodz-pl-B-2018
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -122,97 +122,143 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=B80FFF1D-12B6-4E33-8F54-17556B497B91
+Description=MINIMUM
+AllowFabrication=0
+ParameterCount=0
+VariationCount=34
+Variation1=Designator=C18|UniqueId=\VWXBCGTJ\WCEJQEWP|Kind=1|AlternatePart= 
+Variation2=Designator=R10|UniqueId=\VWXBCGTJ\OTECKDWW|Kind=1|AlternatePart= 
+Variation3=Designator=R11|UniqueId=\VWXBCGTJ\RJEJMUPE|Kind=1|AlternatePart= 
+Variation4=Designator=C20|UniqueId=\VWXBCGTJ\XJBMVLMD|Kind=1|AlternatePart= 
+Variation5=Designator=C19|UniqueId=\VWXBCGTJ\GOYGQLLE|Kind=1|AlternatePart= 
+Variation6=Designator=U3|UniqueId=\VWXBCGTJ\KHYMOSDW|Kind=1|AlternatePart= 
+Variation7=Designator=C15|UniqueId=\VWXBCGTJ\CSKPBSRG|Kind=1|AlternatePart= 
+Variation8=Designator=C16|UniqueId=\VWXBCGTJ\HLBGKMCJ|Kind=1|AlternatePart= 
+Variation9=Designator=CN4|UniqueId=\VWXBCGTJ\TAVVCYXC|Kind=1|AlternatePart= 
+Variation10=Designator=R8|UniqueId=\VWXBCGTJ\CUPRXPSV|Kind=1|AlternatePart= 
+Variation11=Designator=R9|UniqueId=\VWXBCGTJ\BOTTAFAC|Kind=1|AlternatePart= 
+Variation12=Designator=C17|UniqueId=\VWXBCGTJ\BMUWWOLA|Kind=1|AlternatePart= 
+Variation13=Designator=R12|UniqueId=\VWXBCGTJ\ISSWIPLH|Kind=1|AlternatePart= 
+Variation14=Designator=R13|UniqueId=\VWXBCGTJ\FWNKKSAR|Kind=1|AlternatePart= 
+Variation15=Designator=D2|UniqueId=\VWXBCGTJ\JJGFQJDN|Kind=1|AlternatePart= 
+Variation16=Designator=D3|UniqueId=\VWXBCGTJ\MAPCWUBS|Kind=1|AlternatePart= 
+Variation17=Designator=R14|UniqueId=\VWXBCGTJ\PKTEGIMV|Kind=1|AlternatePart= 
+Variation18=Designator=R15|UniqueId=\VWXBCGTJ\KWNXRYKM|Kind=1|AlternatePart= 
+Variation19=Designator=D5|UniqueId=\VWXBCGTJ\FRKVFYHC|Kind=1|AlternatePart= 
+Variation20=Designator=C21|UniqueId=\VWXBCGTJ\WSFJFMPL|Kind=1|AlternatePart= 
+Variation21=Designator=R1|UniqueId=\VPQRTSKH|Kind=1|AlternatePart= 
+Variation22=Designator=R3|UniqueId=\OUKEDARF|Kind=1|AlternatePart= 
+Variation23=Designator=R4|UniqueId=\YMCHEVUX|Kind=1|AlternatePart= 
+Variation24=Designator=U2|UniqueId=\GGVCIQMG|Kind=1|AlternatePart= 
+Variation25=Designator=Y1|UniqueId=\XQPAKETJ|Kind=1|AlternatePart= 
+Variation26=Designator=C9|UniqueId=\CSVCFURP|Kind=1|AlternatePart= 
+Variation27=Designator=Y2|UniqueId=\UBXYEBGU|Kind=1|AlternatePart= 
+Variation28=Designator=C10|UniqueId=\EJMWXRMF|Kind=1|AlternatePart= 
+Variation29=Designator=CN2|UniqueId=\GAPPUCUR|Kind=1|AlternatePart= 
+Variation30=Designator=C6|UniqueId=\SUDOYFJX|Kind=1|AlternatePart= 
+Variation31=Designator=CN3|UniqueId=\VECSFWAV|Kind=1|AlternatePart= 
+Variation32=Designator=C7|UniqueId=\IMELOUQW|Kind=1|AlternatePart= 
+Variation33=Designator=R2|UniqueId=\IDASHPYI|Kind=1|AlternatePart= 
+Variation34=Designator=D1|UniqueId=\BOXCILXO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.DRL
+DocumentPath=.\_DOCUMENTATION\bom, elektronicy-p-lodz-pl-B-2018.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.DRR
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.EXTREP
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBL
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBO
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBP
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBS
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GKO
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GPB
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GPT
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTL
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTO
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTP
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTS
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.LDP
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.REP
+DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.RUL
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=__PRODUCTION\Gerber\elektronicy-p-lodz-pl-B-2018-v10.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=__PRODUCTION\NC Drill\elektronicy-p-lodz-pl-B-2018-v10.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=elektronicy-p-lodz-pl-B-2018
+Name=ProjectCheckedBy
+Value=LR, MK, PP, ZK
 
 [Parameter2]
-Name=ProjectSheetTotal
-Value=1
+Name=ProjectDrawnBy
+Value=PP
 
 [Parameter3]
 Name=ProjectRevision
 Value=1.0
 
 [Parameter4]
-Name=ProjectDrawnBy
-Value=PP
+Name=ProjectSheetTotal
+Value=1
 
 [Parameter5]
-Name=ProjectCheckedBy
-Value=LR, MK, PP, ZK
+Name=ProjectTitle
+Value=elektronicy-p-lodz-pl-B-2018
 
 [Configuration1]
 Name=Sources
@@ -225,7 +271,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for elektronicy-p-lodz-pl-B-2018
 
 [OutputGroup1]
 Name=Netlist Outputs

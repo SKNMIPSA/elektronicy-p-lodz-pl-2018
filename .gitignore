@@ -6,3 +6,13 @@ History/
 *.PrjPCBStructure
 
 Project Outputs for elektronicy-p-lodz-pl-B-2018/
+
+*.log
+
+_DEMO_FW/demo_fw/demo_fw/Debug/
+
+*.xml
+
+*.Txt
+
+*.Dat
